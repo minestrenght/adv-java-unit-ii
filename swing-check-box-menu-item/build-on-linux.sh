@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo Running ur code ...
-java Launch
+echo Compiling ur code ...
+javac Launch.java
 echo Press ENTER key to exit.
 read
